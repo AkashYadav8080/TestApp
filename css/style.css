@@ -1,0 +1,15 @@
+#num1, #num2{
+    padding: 7px;
+    border-radius: 5px;
+    border: 2px solid green;
+    /* background-color: yellow; */
+}
+
+button{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    padding: 12px;
+    border-radius: 5px;
+    
+}
